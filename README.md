@@ -1,4 +1,4 @@
-# provider_test
+# flutter-provider-with-go-router
 
 A new Flutter project.
 
